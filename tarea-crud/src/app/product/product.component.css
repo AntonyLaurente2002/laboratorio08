@@ -1,0 +1,32 @@
+.text {
+  color: rgb(0, 0, 0);
+  font-family: "Press Start 2P", cursive;
+}
+
+.btn {
+  background-color: #D2B48C; 
+  color: beige;
+  border: 1px solid beige;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.btn:hover {
+  background-color: beige;
+  color: #D2B48C; 
+}
+
+.table {
+  background-color: #D2B48C; 
+  color: beige;
+  border: 1px solid beige;
+  font-family: "Press Start 2P", cursive;
+}
+
+.table th, .table td {
+  border: 1px solid beige;
+}
+
+.table th {
+  background-color: beige;
+  color: #D2B48C; 
+}
